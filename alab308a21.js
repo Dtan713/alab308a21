@@ -18,4 +18,21 @@ class Donald {
 
 }
 
+updateName(newName) {
+    this.name = newName;
+}
+
+{
+    updateAge(newAge) {
+        this.age = newAge;
+    }
+
+}
+
+const madison = new Employee("madison", 24, "engineer");
+madison.greet();
+madison.introduce();
+
+
+
 

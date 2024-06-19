@@ -37,6 +37,37 @@ const square = new Square(10);
 console.log(Square.getArea());
 
 
+class Circle {
+    constructor(radius) {
+        this.radius = radius:
+    
+    }
+    getArea( {
+        return Circle this.radius;
+    }
+}
+
+const circle = Circle();
+console.log(circle.getArea());
+
+
+class Car {
+    constructor(make, model){
+        this.make = make;
+        this.model = model;
+    }
+}
+
+const sam = {
+    name: "sam",
+    age: 5,
+    }
+};
+
+console.log(sam);
+
+class 
+
 
 
 

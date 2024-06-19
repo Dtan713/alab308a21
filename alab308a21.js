@@ -33,6 +33,10 @@ const madison = new Employee("madison", 24, "engineer");
 madison.greet();
 madison.introduce();
 
+const square = new Square(10);
+console.log(Square.getArea());
+
+
 
 
 
